@@ -9,5 +9,8 @@ Codeplug obsahuje:
 - frekvence všech 16ti PMR kanálů (stanicí s oddělitelnou anténou a výkonem vyšším než 500mW nelze v ČR na PMR vysílat!)
 - frekvence a nastavení analogového APRS (příjem i vysílání)
 - frekvence a nastavení několika vybraných DMR převaděčů v ČR (pro BrandMaister i DMR SOBĚ)
+- rozdělení do ZÓN
+- vytvořené SCAN listy pro jednotlivé zóny
+- nastavené programovatelné tlačítka na: xxxxx
 
 Pro vlastní použítí, je nutné aby byl můj volací znak OK1SIM přepsán za Váš vlastní (na titulní obrazovce po bootu, v nastavní APRS) a mé digitální ID pro BM a DS přepsáno na Vaše vlastní.
